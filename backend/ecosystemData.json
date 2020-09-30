@@ -8,8 +8,8 @@
     "ipfsPort": "5001",
     "ipfsProtocol": "https",
     "ipfsUrlTemplate": "https://ipfs.io/ipfs/",
-    "gasPrice": 15,
-    "gasLimit": 7900000,
+    "gasPrice": 50,
+    "gasLimit": 8900000,
     "distDate": 1599844935899,
     "distZip": "https://raw.githubusercontent.com/seedventure/client/master/dist/dist.zip"
 }
